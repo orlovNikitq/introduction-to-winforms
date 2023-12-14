@@ -1,0 +1,9 @@
+C:\Users\zunderz\Documents\projc#\D3\D3_1\D3_1\bin\Debug\D3_1.exe.config
+C:\Users\zunderz\Documents\projc#\D3\D3_1\D3_1\bin\Debug\D3_1.exe
+C:\Users\zunderz\Documents\projc#\D3\D3_1\D3_1\bin\Debug\D3_1.pdb
+C:\Users\zunderz\Documents\projc#\D3\D3_1\D3_1\obj\Debug\D3_1.csproj.AssemblyReference.cache
+C:\Users\zunderz\Documents\projc#\D3\D3_1\D3_1\obj\Debug\D3_1.Properties.Resources.resources
+C:\Users\zunderz\Documents\projc#\D3\D3_1\D3_1\obj\Debug\D3_1.csproj.GenerateResource.cache
+C:\Users\zunderz\Documents\projc#\D3\D3_1\D3_1\obj\Debug\D3_1.csproj.CoreCompileInputs.cache
+C:\Users\zunderz\Documents\projc#\D3\D3_1\D3_1\obj\Debug\D3_1.exe
+C:\Users\zunderz\Documents\projc#\D3\D3_1\D3_1\obj\Debug\D3_1.pdb
